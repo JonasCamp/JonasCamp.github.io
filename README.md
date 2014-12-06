@@ -3,6 +3,7 @@
 <head>
 <title><h1>Voce conhece o Brasil?</h1></title>
 <body><p><h2>sabemos que o Brasil é muito grande</h2>.</p></body>
+<img src=http://blog.educacaoadventista.org.br/profLeila/images/239/mapa_brasil_jaia.jpg>
 
 
 import random
