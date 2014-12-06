@@ -2,7 +2,7 @@
 <html>
 <head>
 <title><h1>Voce conhece o Brasil?</h1></title>
-<body><p>sabemos que o Brasil é muito grande.</p></body>
+<body><p><h2>sabemos que o Brasil é muito grande</h2>.</p></body>
 
 
 import random
