@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Voce conhece o Brasil?</title>
-<body> sabemso que o Brasil</body>
+<body><p>sabemso que o Brasil</p></body>
 
 import random
 #test
